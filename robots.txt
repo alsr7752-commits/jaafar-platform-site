@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alsr7752-commits.github.io/jaafar-platform-site/sitemap.xml
